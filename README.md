@@ -1,3 +1,3 @@
-#Starter Kit for [Building Applications in React and Redux in ES6]
+## Starter Kit for [Building Applications in React and Redux in ES6]
 
-## actually is working using mockup.io 
+# Actually is working using mockup.io 
